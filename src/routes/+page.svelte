@@ -3,6 +3,10 @@
 	import Scene from './scene.svelte';
 </script>
 
+<svelte:head>
+	<title>Lakshay's GC'23</title>
+</svelte:head>
+
 <div class="scene">
 	<h1>Lakshay's GitHub Contributions in 2023</h1>
 	<Canvas>
