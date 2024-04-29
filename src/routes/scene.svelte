@@ -15,7 +15,7 @@
 	let contributions: Contributions[] = [];
 
 	onMount(async () => {
-		const response = await fetch('https://ghcapi.lakshb.me/lakshaybhushan/2023');
+		const response = await fetch('https://ghcapi.lakshb.me/lakshaybhushan/2024');
 		contributions = await response.json();
 	});
 

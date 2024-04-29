@@ -4,11 +4,11 @@
 </script>
 
 <svelte:head>
-	<title>Lakshay's GC'23</title>
+	<title>Lakshay's GC'24</title>
 </svelte:head>
 
 <div class="scene">
-	<h1>Lakshay's GitHub Contributions in 2023</h1>
+	<h1>Lakshay's GitHub Contributions in 2024 [3D]</h1>
 	<Canvas>
 		<Scene />
 	</Canvas>
